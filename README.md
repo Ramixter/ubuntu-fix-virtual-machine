@@ -21,3 +21,5 @@ And now we have to rebbot the system.
 ```bash
 sudo reboot
 ````
+
+And now we can install the **Guest additions* from **VirtualBox**
