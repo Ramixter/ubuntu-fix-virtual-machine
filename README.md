@@ -22,4 +22,4 @@ And now we have to rebbot the system.
 sudo reboot
 ````
 
-And now we can install the **Guest additions* from **VirtualBox**
+And now we can install the **Guest additions** from **VirtualBox**
